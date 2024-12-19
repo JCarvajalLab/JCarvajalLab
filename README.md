@@ -1,15 +1,10 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">HI<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### <div align="center">I'm Niko, a Fresh Graduate Software Engineer</div>  
+### <div align="center">Soy Jordan, egresado de ingenieria en informatica</div>  
   
-
-- 🔭 I’m open for any job available  
+- 🔭 Me encuentro buscando trabajo
   
-
-- 🌱 My best skill is in Android Dev (Flutter-Kotlin), Can also do Web Development  
-  
-
-- ⚡ Fun fact: Snek Waifu  
+- 🌱 Mi habilidades hasta el momento son los estudiado en el ultimo tiempo que es VUE.JS (Vue 3)
   
 
 <br/>  
@@ -66,14 +61,13 @@
 
 ##  Mis Estadisticas 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=JCarvajalLab&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCarvajalLab&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCarvajalLab&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 Actualmente estoy aprendiendo fron end en el bootcamp de Talento Digital para Chile
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Connect with me  
+## Contacto
 <div align="center">
 <a href="https://www.linkedin.com/in/jordan-carvajal-guajardo-54970931a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
