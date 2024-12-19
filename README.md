@@ -1,6 +1,6 @@
-<h1 align="center">HI<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-### <div align="center">Soy Jordan, egresado de ingenieria en informatica</div>  
+<h2 align="left">Hola, Soy Jordan <a href="https://www.linkedin.com/in/jordan-carvajal-guajardo-54970931a/" target="_blank" rel="noopener noreferrer">Link</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
   
 - 🔭 Me encuentro buscando trabajo
   
@@ -72,7 +72,8 @@
 <a href="https://www.linkedin.com/in/jordan-carvajal-guajardo-54970931a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- 
 </div>  
 <br/>  
-<br />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
