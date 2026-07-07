@@ -22,7 +22,11 @@ Estoy formándome como **Full Stack Python Developer** en un bootcamp intensivo,
 Busco mi primera oportunidad en la industria TI para seguir creciendo como desarrollador.
  
 ## 🚀 Proyectos destacados
- 
+
+**[🏆 E-commerce Full Stack — Proyecto Final](https://github.com/JCarvajalLab/Modulo-8-E-commerce-ProyectoFinal)**
+Plataforma de e-commerce completa desarrollada con Django, PostgreSQL y Bootstrap 5. Incluye autenticación de usuarios, carrito de compras, gestión de pedidos y panel de administración de productos. Proyecto final del bootcamp, integrando todo lo aprendido en desarrollo backend, modelado de datos y buenas prácticas.
+`Django` `PostgreSQL` `Bootstrap 5` `Python` `Autenticación`
+
 **[🛒 E-commerce CRUD — Django + PostgreSQL](https://github.com/JCarvajalLab/Modulo-7-E-commerce-CRUD)**
 Aplicación CRUD completa para gestión de productos y categorías, construida con Django y PostgreSQL. Incluye validaciones de formulario personalizadas, suite de tests automatizados (17 tests) y documentación técnica completa.
 `Django` `PostgreSQL` `Python` `Testing`
